@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+  background: url(../images/home-hero.jpg) no-repeat bottom left;
+}
+.jumbotron h2,
+.jumbotron .h2 {
+  color: #fff;
+}
+.jumbotron p {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+  color: #fff;
+}
+p.descripcion{
+	margin-left: 10px;
+	margin-right: 10px;
+}
